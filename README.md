@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # assay-tracking
 
 > Assay Tracking
@@ -20,6 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# test
->>>>>>> 0a90ece53824e36d6a51bc2d63f4adc40911151b
