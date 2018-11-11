@@ -9,7 +9,7 @@
     <div><slot name="two"></slot></div>
     <div><slot name="three">[Slot placeholder]</slot></div>
     <div><slot></slot></div>
-  </div>
+  </div> 
 </template>
 
 <script>
